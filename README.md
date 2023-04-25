@@ -1,4 +1,4 @@
-# Kinematic_Emotion_Recognition
+
 <h2> Emotion Recognition from Kinematic Data</h2>
 
 
