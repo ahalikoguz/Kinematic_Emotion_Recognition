@@ -1,5 +1,5 @@
 
-<h2> Emotion Recognition from Kinematic Data</h2>
+<h1> Emotion Recognition from Kinematic Data</h1>
 
 
 <h4> Trained CNN-based DL models</h4>
